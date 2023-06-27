@@ -10,19 +10,37 @@ export default {
         sidebar: [
           // SidebarItem
           {
-            text: 'Foo',
-            link: '/foo/',
+            text: 'Chapter 1. Linearly distributive categories',
+            link: '/README.md',
             children: [
               // SidebarItem
-              {
-                text: 'github',
-                link: 'https://github.com',
-                children: [],
-              },
+              '/chapter1/Linearlogic.md',
               // string - page file path
-              '/reference/config.md',
+              '/chapter1/Semantics.md',
+              '/chapter1/LinearlogicToQuantum.md',
+              '/chapter1/LDC.md',
+              '/chapter1/LDCrainbow.md',
+              '/chapter1/Graphicalcalculus.md',
+              '/chapter1/LDC.md',
+              '/chapter1/Examples.md',
             ],
           },
+      /*    {
+            text: 'Chapter 2. Functors and transformations',
+            link: 'README.md',
+          },
+          {
+            text: 'Chapter 3. Frobenius relations and bialgebras',
+            link: 'README.md',
+          },
+          {
+            text: 'Chapter 4. Applications of LDCs to quantum',
+            link: 'README.md',
+          },
+          {
+            text: 'Chapter 5. Applications of LDCs to concurrency',
+            link: 'README.md',
+          }, */
           // string - page file path
           '/README.md',
         ],

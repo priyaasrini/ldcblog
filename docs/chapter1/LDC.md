@@ -1,1 +1,3 @@
+<!-- title -->
+
 # Linearly distributive categories

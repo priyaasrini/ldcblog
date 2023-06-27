@@ -1,1 +1,0 @@
-# The grapphical calculus
