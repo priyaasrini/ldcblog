@@ -2,11 +2,15 @@
 lang: en-US
 title: Chapter 1
 description: Linearly distributive categories is fun!
+sidebar: false
 ---
 
 # Linearly distributive categories say hello!
 
 # Episode 1
+
+$$A \otimes (B \oplus C) \xrightarrow{\partial} (A \otimes B) \oplus C $$
+
 # Episode 2
 
 <!-- relative path -->
