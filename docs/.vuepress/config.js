@@ -2,7 +2,7 @@ import { defaultTheme } from '@vuepress/theme-default'
 import mathjax3 from "markdown-it-mathjax3"
 
 export default {
-  title: "LDC", 
+  title: "LDC Home", 
   theme: defaultTheme({
     // set theme config here
         // sidebar array
