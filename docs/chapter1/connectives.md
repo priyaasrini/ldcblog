@@ -4,7 +4,7 @@ The last episode ended with a brief introduction to basic building blocks of lin
 
 ## Negation 
 
-Negation allows consider the *not form* of a statement, hence in a sense, the dual of a statement.  However, the *not form* does not mean the exact opposite. The negation of a statement such as *to spend a dollar* will be *to receive a dollar*. (In general, it is not *not spending a dollar*). 
+Negation allows considering the *not form* of a statement, hence in a sense, the dual of a statement.  However, the *not form* does not mean the exact opposite. The negation of a statement such as *to spend a dollar* will be *to receive a dollar*. (In general, it is not *not spending a dollar*). 
 
 The symbol for negation is $\perp$ (pronounced *perp*).
 
@@ -33,6 +33,11 @@ Negation puts the infinite storage and the hungry pacman on the same pedestal: n
 
 $$ (?p)^\perp = !(p^\perp) $$
 
+Fun fact: The term *whimper* was coined by [Richard (Rick) Blute](https://richardblute.ca/) from University of Ottawa, one of the pioneers of linearly distributive categories. 
+
+
 ## Additives
 
-(lets skip these for now)
+I am going to skip these for now since they would not be reappearing on the stage in the immediate future.
+
+In the next episode, I shall show how linearly distributive to monoidal categories are simply multiplicative fragment of linear logic presented in the language of category theory :tada:
