@@ -15,6 +15,7 @@ export default {
             children: [
               // SidebarItem
               '/chapter1/Linearlogic.md',
+              '/chapter1/connectives.md',
               // string - page file path
               '/chapter1/Semantics.md',
               '/chapter1/LinearlogicToQuantum.md',

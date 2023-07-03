@@ -11,12 +11,16 @@ This blog intends to be a one-stop, approachable reference for **linearly distri
 
 My introduction to linearly distributive categories happened due to my interest in quantum mechanics. My [PhD thesis](https://arxiv.org/abs/2303.14231) is on using linearly distributive categories to describe quantum processes and systems of any dimension. I am excited to share more about this as we progress in this blog! 
 
-Thanks to Paweł Sobociński for the initial spark and the inspiration to pen this series!
+Thanks to Paweł Sobociński for the initial spark and the inspiration to pen this series! Thanks to [Daniel Fiłonik](https://www.ixenv.com) for the introduction to VuePress!
 
-Dedicated to: Robin Cockett and his ever-extending hikes in the Rockies!
+**Dedication:** To Robin Cockett and his ever-extending 'short' hikes in the Rockies :mountain_snow: !
+
+<center> <big> <b> INDEX </b> </big> </center>
 
 ## Chapter 1: Linearly distributive categories (LDCs)
 [Episode 1. Linear logic](chapter1/Linearlogic.md) *:Origins of LDCs*
+
+[Episode 2. Building blocks of linear logic](chapter1/connectives.md)
 
 [Episode 2. Categorical semantics of linear logic](chapter1/Semantics.md) *:Linear logic through the lens of category theory*
 
