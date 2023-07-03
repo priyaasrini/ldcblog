@@ -20,9 +20,9 @@ Thanks to Paweł Sobociński for the initial spark and the inspiration to pen th
 ## Chapter 1: Linearly distributive categories (LDCs)
 [Episode 1. Linear logic](chapter1/Linearlogic.md) *:Origins of LDCs*
 
-[Episode 2. Building blocks of linear logic](chapter1/connectives.md)
+[Episode 2. Building blocks of linear logic](chapter1/connectives.md): Linear logic LEGO
 
-[Episode 2. Categorical semantics of linear logic](chapter1/Semantics.md) *:Linear logic through the lens of category theory*
+[Episode 2. Categorical presentation of linear logic](chapter1/Semantics.md) *:Linear logic through the lens of category theory*
 
 [Episode 3. From linear logic to quantum mechanics](chapter1/LinearlogicToQuantum.md)  *:A reason to care*
 

@@ -1,3 +1,3 @@
 <!-- title -->
 
-# Categorical semantics of linear logic
+# Categorical presentations of linear logic
