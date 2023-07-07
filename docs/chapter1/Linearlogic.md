@@ -4,7 +4,7 @@
 
 Linearly distributive categories are inspired by linear logic. 
 
-Girard introduced linear logic in 1987 as a logic for resources manipulation. Classical logic treats logical statements are truth values. Linear logic treats logical
+Girard introduced linear logic in 1987 as a logic for resources manipulation [[1]](https://www.sciencedirect.com/science/article/pii/0304397587900454). Classical logic treats logical statements are truth values. Linear logic treats logical
 statements as resources which cannot be duplicated or destroyed. What does that mean? 
 
 For example, consider the following statements, $p$ and $q$:
@@ -41,3 +41,8 @@ Now, every logical framework has a few basic building blocks from which complex 
 - **Exponentials:** Allows for non-linearity in the logic. Using exponentials one can create  a storage of a resource which can be **duplicated** or **destroyed**, and from which the resource can be extracted any number of times. An infinte such storage of apples is written as $!$:apple:.
 
 In the [next epsiode](/chapter1/connectives.md), I shall show what exactly these connectives are and how they relate to linearly distributive categories, the star of this series! :star: :tada:
+
+**References**
+
+[1]. Jean-Yves Girard. “Linear logic”. In: Theoretical computer science 50.1 (1987), pp. 1–
+101.

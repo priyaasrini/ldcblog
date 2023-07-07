@@ -7,11 +7,11 @@ sidebar: false
 
 # Notes on linearly distributive categories and applications
 
-This blog intends to be a one-stop, approachable reference for **linearly distributive categories**, associated structures and applications. The idea is to assimilate the materials on this topic strewn across mutliple (very hard-hike-like) papers and provide it in a form that anyone with a basic understanding of category theory, *the science of connections and compositions* can get a *feel* for this cool  tool!  
+This blog intends to be a one-stop, approachable reference for **linearly distributive categories**, associated structures and applications. The idea is to assimilate the materials on this topic strewn across multiple (a super hard hike-like) papers and provide it in a form that anyone with a basic understanding of category theory, *the science of connections and compositions* can get a *feel* for this cool tool!  
 
 My introduction to linearly distributive categories happened due to my interest in quantum mechanics. My [PhD thesis](https://arxiv.org/abs/2303.14231) is on using linearly distributive categories to describe quantum processes and systems of any dimension. I am excited to share more about this as we progress in this blog! 
 
-Thanks to Paweł Sobociński for the initial spark and the inspiration to pen this series! Thanks to [Daniel Fiłonik](https://www.ixenv.com) for the introduction to VuePress!
+Thanks to Paweł Sobociński for the initial spark and the inspiration to pen this series! Thanks to [Daniel Fiłonik](https://www.ixenv.com) for being a great VuePress ambassador!
 
 **Dedication:** To Robin Cockett and his ever-extending 'short' hikes in the Rockies :mountain_snow: !
 
