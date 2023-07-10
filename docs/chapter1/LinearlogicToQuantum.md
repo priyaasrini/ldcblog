@@ -1,6 +1,6 @@
 <!-- title -->
 
-# From linear logic to quantum mechanics
+# E4. From linear logic to quantum mechanics
 
 Traditionally, Hilbert spaces are used as the mathematical framework of quantum mechanics. While this framework support detailed computation, they 
 do not support an intuition for the problem: this leads to an approach described as "shut up and calculate". 
@@ -20,7 +20,7 @@ compact dagger-linear logic.  CQM uses dagger-monoidal categories,  specifically
 categories to develop a high-level, intuitive, formal language for quantum mechanics 
 by abstracting the standard, traditionally-used, analytical framework of Hilbert spaces, as illustrated below:
 
-![ Image ](pics/abstraction.png)
+![ Image ](../pics/abstraction.png)
 
 In 2004, Abramsky and Coecke [[1]](https://arxiv.org/abs/quant-ph/0402130) described the fundamental axioms of quantum mechanics 
 within the framework of dagger compact closed categories. 
@@ -34,24 +34,33 @@ diagram $(b)$ represents a transformation from system $A$ to system $B$.
 with matching types. Note that the string diagrams are to be read 
 from top to bottom (following the direction of gravity), and from left to right. 
 
-PICTURE...
+![ Image ](../pics/strings1.png)
 
 Moreover, the wires and the boxes can be composed in parallel leading to processes as shown in diagrams 
 $(e)$ and $(f)$. Morever, the wires are allowed to cross one another another as shown in diagram $(g)$.
 
-PICTURE...
+![ Image ](../pics/strings2.png)
 
 It is far simpler to reason about processes using string diagrams since the human brain is good at processing visual information. 
 For example, it is quite easy to see that the diagrams below represent the same process: one can prove the diagrams equal by 
 fixing the ends of the wires and moving the circles. 
 
-PICTURE...
+![ Image ](../pics/strings3.png)
 
 In compact closed categories, one can additionally bend wires into a cap and a cup as follows, thus adding to the expressive power of the language: 
 
-PICTURE...
+![ Image ](../pics/strings4.png)
 
 The dagger compact closed categories faithfully abstract the structure of finite-dimensional Hilbert spaces, 
 thereby enabling a diagrammatic but rigorous reasoning technique for quantum processes and protocols
 within the category of finite-dimensional Hilbert spaces and linear maps. 
 
+I hope that I have convinced you that linear logic and its categorical presentations are interesting to understand! 
+In the [next episode](/chapter1/LDC.md), we shall introduce the star of the series, the linearly distributive categories which are the categorical presenation of multiplicative linear logic! :tada: :smile:
+
+**References**
+
+[1]. Samson Abramsky and Bob Coecke. “A Categorical Semantics of Quantum Proto- cols”. In: Proceedings of the 19th Annual IEEE Symposium on Logic in Computer Science. LICS ’04. Washington, DC, USA: IEEE Computer Society, 2004, pp. 415– 425. isbn: 0-7695-2192-4. 
+
+
+[2]. Peter Selinger. “Dagger compact closed categories and completely positive maps”. In: Electronic Notes in Theoretical Computer Science 170 (2007), pp. 139–163.

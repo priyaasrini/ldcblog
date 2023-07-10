@@ -22,7 +22,7 @@ export default {
               '/chapter1/LDC.md',
               '/chapter1/LDCrainbow.md',
               '/chapter1/Graphicalcalculus.md',
-              '/chapter1/LDC.md',
+              '/chapter1/LinearDuals.md',
               '/chapter1/Examples.md',
             ],
           },

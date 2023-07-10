@@ -22,19 +22,19 @@ Thanks to Paweł Sobociński for the initial spark and the inspiration to pen th
 
 [Episode 2. Building blocks of linear logic](chapter1/connectives.md): Linear logic LEGO
 
-[Episode 2. Categorical presentation of linear logic](chapter1/Semantics.md) *:Linear logic through the lens of category theory*
+[Episode 3. Categorical presentation of linear logic](chapter1/Semantics.md) *:Linear logic through the lens of category theory*
 
-[Episode 3. From linear logic to quantum mechanics](chapter1/LinearlogicToQuantum.md)  *:A reason to care*
+[Episode 4. From linear logic to quantum mechanics](chapter1/LinearlogicToQuantum.md)  *:A reason to care*
 
-[Episode 4. Linearly distributive categories](chapter1/LDC.md)  *:Why distributive?*
+[Episode 5. Linearly distributive categories](chapter1/LDC.md)  *:Why distributive?*
 
-[Episode 5. The LDC rainbow](chapter1/LDCrainbow.md) *:Versions of LDCs*
+[Episode 6. The LDC rainbow](chapter1/LDCrainbow.md) *:Versions of LDCs*
 
-[Episode 6. The graphical calculus](chapter1/Graphicalcalculus.md) *:Drawing the proofs*
+[Episode 7. The graphical calculus](chapter1/Graphicalcalculus.md) *:Drawing the proofs*
 
-[Episode 7. Linear adjunction and *-autonomous categories](chapter1/Linearduals.md) *:Negation in linear logic = duals in LDCs*
+[Episode 8. Linear adjunction and *-autonomous categories](chapter1/Linearduals.md) *:Negation in linear logic = duals in LDCs*
 
-[Episode 8. Examples of LDCs](chapter1/Examples.md) *:Big and small*
+[Episode 9. Examples of LDCs](chapter1/Examples.md) *:Big and small*
 
 ## Chapter 2: Functors and transformations
 

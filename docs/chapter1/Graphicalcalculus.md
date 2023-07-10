@@ -1,2 +1,2 @@
 <!-- title -->
-# The graphical calculus
+# E7. The graphical calculus

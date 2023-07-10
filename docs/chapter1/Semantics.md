@@ -1,6 +1,6 @@
 <!-- title -->
 
-# Categorical presentations of linear logic
+# E3. Categorical presentations of linear logic
 
 Linear logic, being a logic of resources, emphasizes the structure of proofs rather than provability, that is, one is more 
 interested to know how a statement can be proved, rather than, merely if the statement is provable. In linear logic we are interested in knowing how we can obtain a resource than merely knowing that such a resource exists.

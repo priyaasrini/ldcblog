@@ -1,3 +1,3 @@
 <!-- title -->
 
-# The LDC rainbow
+# E6. The LDC rainbow

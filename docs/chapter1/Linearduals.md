@@ -1,4 +1,4 @@
 <!-- title -->
 
-# Linear duals and *-autonomous categories
+# E8. Linear duals and *-autonomous categories
 

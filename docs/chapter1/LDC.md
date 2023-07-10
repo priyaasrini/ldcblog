@@ -1,3 +1,3 @@
 <!-- title -->
 
-# Linearly distributive categories
+# E5. Linearly distributive categories

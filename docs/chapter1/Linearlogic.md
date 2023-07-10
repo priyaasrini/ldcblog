@@ -1,6 +1,6 @@
 <!-- title -->
 
-# An introduction to linear logic
+# E1. An introduction to linear logic
 
 Linearly distributive categories are inspired by linear logic. 
 
