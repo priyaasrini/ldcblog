@@ -32,7 +32,7 @@ The proof theory of compact MLL based on the graphical calculus
 of monoidal categories [[2]](https://arxiv.org/abs/0908.3347)   is used to derive an elegant description 
 of quantum mechanics [[3]](https://www.cambridge.org/core/books/picturing-quantum-processes/1119568B3101F3A685BE832FEEC53E52), [[4]](https://academic.oup.com/book/43710).
 
-In the [next episode](/chapter1/LinearlogicToQuantum.md), we shall delve a little bit into the connection of linear logic to quantum mechanics! :tada:
+In the [next episode](/chapter1/LinearlogicToQuantum.md), we shall have a quick look into the connection of linear logic to quantum mechanics! :tada:
 
 **References**
 
