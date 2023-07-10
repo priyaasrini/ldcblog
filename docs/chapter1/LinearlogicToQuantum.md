@@ -16,9 +16,42 @@ given by self-adjoint operators on a separable Hilbert space, that is, a Hilbert
 countable orthonormal basis. 
 
 While monoidal categories provide the semantics for compact MLL, dagger-monoidal categories provide the categorical semantics for 
-compact dagger-linear logic.  CQM uses dagger-monoidal categories,  specifically, dagger-compact closed 
+compact dagger-linear logic.  CQM uses dagger-monoidal categories,  specifically, dagger compact closed 
 categories to develop a high-level, intuitive, formal language for quantum mechanics 
 by abstracting the standard, traditionally-used, analytical framework of Hilbert spaces, as illustrated below:
 
-![ Image ](/pics/abstraction.png)
+![ Image ](pics/abstraction.png)
+
+In 2004, Abramsky and Coecke [[1]](https://arxiv.org/abs/quant-ph/0402130) described the fundamental axioms of quantum mechanics 
+within the framework of dagger compact closed categories. 
+This was quite significant as it meant that the proof theory 
+based on string diagrams of monoidal categories [[2]](https://www.sciencedirect.com/science/article/pii/S1571066107000606), 
+could be deployed to reason about quantum processes. For example, in CQM, 
+physical systems are represented as wires and processes as circles.  
+The label of a wire represents its type. Diagram $(a)$ represents a system $A$, and 
+diagram $(b)$ represents a transformation from system $A$ to system $B$.
+ Processes can composed sequentially by connecting the wires 
+with matching types. Note that the string diagrams are to be read 
+from top to bottom (following the direction of gravity), and from left to right. 
+
+PICTURE...
+
+Moreover, the wires and the boxes can be composed in parallel leading to processes as shown in diagrams 
+$(e)$ and $(f)$. Morever, the wires are allowed to cross one another another as shown in diagram $(g)$.
+
+PICTURE...
+
+It is far simpler to reason about processes using string diagrams since the human brain is good at processing visual information. 
+For example, it is quite easy to see that the diagrams below represent the same process: one can prove the diagrams equal by 
+fixing the ends of the wires and moving the circles. 
+
+PICTURE...
+
+In compact closed categories, one can additionally bend wires into a cap and a cup as follows, thus adding to the expressive power of the language: 
+
+PICTURE...
+
+The dagger compact closed categories faithfully abstract the structure of finite-dimensional Hilbert spaces, 
+thereby enabling a diagrammatic but rigorous reasoning technique for quantum processes and protocols
+within the category of finite-dimensional Hilbert spaces and linear maps. 
 
