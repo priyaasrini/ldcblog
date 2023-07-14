@@ -26,15 +26,17 @@ Thanks to Paweł Sobociński for the initial spark and the inspiration to pen th
 
 [Episode 4. From linear logic to quantum mechanics](chapter1/LinearlogicToQuantum.md)  *:A reason to care*
 
-[Episode 5. Linearly distributive categories](chapter1/LDC.md)  *:Why distributive?*
+[Episode 5. Linearly distributive categories - Part I](chapter1/LDC.md)  *:What is linear distributivity?*
 
-[Episode 6. The LDC rainbow](chapter1/LDCrainbow.md) *:Versions of LDCs*
+[Episode 6. Linearly distributive categories - Part II](chapter1/LDC2.md)  *:Meet the star of the series!*
 
-[Episode 7. The graphical calculus](chapter1/Graphicalcalculus.md) *:Drawing the proofs*
+[Episode 7. Versions of LDCs](chapter1/LDCrainbow.md) *:Compacting LDCs  to monoidal categories*
 
-[Episode 8. Linear adjunction and *-autonomous categories](chapter1/Linearduals.md) *:Negation in linear logic = duals in LDCs*
+[Episode 8. The graphical calculus](chapter1/Graphicalcalculus.md) *:Drawing the proofs*
 
-[Episode 9. Examples of LDCs](chapter1/Examples.md) *:Big and small*
+[Episode 9. Linear adjunction and *-autonomous categories](chapter1/Linearduals.md) *:Negation in linear logic = duals in LDCs*
+
+[Episode 10. Examples of LDCs](chapter1/Examples.md) *:Big and small*
 
 ## Chapter 2: Functors and transformations
 

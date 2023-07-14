@@ -1,0 +1,3 @@
+# E6. Linearly distributive categories -- Part II
+
+Unlike in its categorical semantics, linear distributivity is not a fundamental axiom in linear logic...

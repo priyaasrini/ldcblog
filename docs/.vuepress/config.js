@@ -21,6 +21,7 @@ export default {
               '/chapter1/Semantics.md',
               '/chapter1/LinearlogicToQuantum.md',
               '/chapter1/LDC.md',
+              '/chapter1/LDC2.md',
               '/chapter1/LDCrainbow.md',
               '/chapter1/Graphicalcalculus.md',
               '/chapter1/LinearDuals.md',
