@@ -1,3 +1,3 @@
 <!-- title -->
 
-# E6. The LDC rainbow
+# E6. Versions of LDCs

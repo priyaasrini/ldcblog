@@ -1,4 +1,5 @@
 import { defaultTheme } from '@vuepress/theme-default'
+import { commentPlugin } from "vuepress-plugin-comment2"
 import mathjax3 from "markdown-it-mathjax3"
 
 export default {
@@ -10,7 +11,7 @@ export default {
         sidebar: [
           // SidebarItem
           {
-            text: 'Chapter 1. Linearly distributive categories',
+            text: 'Season 1. Linearly distributive categories (LDCs)',
             link: '/README.md',
             children: [
               // SidebarItem
@@ -49,4 +50,12 @@ export default {
   extendsMarkdown: md => {
     md.use(mathjax3)
   },
+  plugins: [
+    commentPlugin({
+      provider: "Waline", // Artalk | Giscus | Waline | Twikoo
+      serverURL: "https://waline-9mxygm55v-pvsriniv-gmailcom.vercel.app/?vercelToolbarCode=g-SS8bK2ujVSWdz",
+      pageview: true,
+    }),
+  ],
+
 }

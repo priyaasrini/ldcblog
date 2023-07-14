@@ -46,3 +46,5 @@ In the [next epsiode](/chapter1/connectives.md), I shall show what exactly these
 
 [1]. Jean-Yves Girard. “Linear logic”. In: Theoretical computer science 50.1 (1987), pp. 1–
 101.
+
+<CommentService/>

@@ -12,10 +12,10 @@ the rules are applied does not affect the final result).
 
 In order to remove such unuseful information,  Girard [[1]](https://www.sciencedirect.com/science/article/pii/0304397587900454) introduced proof-nets to 
 represent proofs of linear logic, specifically for the multiplicative fragment without units 
-i.e., only the $\otimes$ and  $\oplus$. Proof-nets are basically formal diagrams built from s small number of basic components and comes with certain rules for manipulating the diagrams. Such diagrams are also known as circuit digrams. The study of algorithms to decide if a given circuit corresponds to a valid 
-proof-net paved way to the study of the categorical presentations for multiplicative linear logic (MLL). 
+i.e., only the $\otimes$ and  $\oplus$. Proof-nets are basically formal diagrams built by composing a small number of basic components (like LEGO) and comes with certain rules for manipulating the diagrams. Such diagrams are also known as circuit digrams. The study of algorithms to decide if a given circuit corresponds to a valid 
+proof-net paved way to the study of the categorical presentations for multiplicative linear logic (the fragment of linear logic concerned with the multiplicatives only). 
 
-An overview of the categorical proof theories for the multiplicative linear logic is provided in the table below: 
+An overview of the categorical such proof theories for the multiplicative linear logic is provided in the table below: 
 
 | Fragment                                              | Connectives |Categorical proof theory      |
 | -----------------------------| ------------------------ | -------------- |
@@ -44,3 +44,6 @@ In the [next episode](/chapter1/LinearlogicToQuantum.md), we shall have a quick 
 [3]. Bob Coecke and Aleks Kissinger. Picturing Quantum Processes: A First Course in Quantum Theory and Diagrammatic Reasoning. Cambridge University Press, 2017.
 
 [4]. Chris Heunen and Vicary Jamie. Categories for Quantum Theory: An Introduction. Oxford University Press, Nov. 2019.
+
+<CommentService/>
+
