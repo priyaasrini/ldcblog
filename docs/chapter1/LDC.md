@@ -10,7 +10,7 @@ Linearly distributive categories provide the categorical semantics for multiplic
 
 ::: tip What is sequent calculus?
 
-Logicians use sequent calculus method to calculate proofs by stacking the arguments. For example, 
+Logicians use sequent calculus as a formal tool to calculate proofs by stacking the arguments. For example, 
 
 $$ 
 \begin{prooftree}
@@ -77,9 +77,7 @@ Below is a semi-formal pictorial representation of distributivity vs linearly di
 
 Linear distributivity seems strange at the first sight! What sort of systems are linearly distributive? Certainly, not the usual number system! But, we will work on this, developing an intution for this strange looking distributivity formula. 
 
-Wait! Are we not supposed to talk about linearly distributive categories? We have been secretly talking about them. Linear distributivity is the :heart: and soul of linearly distributive categories. If you have been wondering why these categories have been named so, you know the answer now! With linear distributivity and certain coherence conditions, these categories recover the whole of the multiplicative linear logic.
-
-In the [next episode](/chapter1/LDC2.md), we shall  meet linearly distributive categories in their full form! :dancer: :tada: 
+Wait! Are we not supposed to talk about linearly distributive categories? We have been secretly talking about them. Linear distributivity is the :heart: and soul of linearly distributive categories. If you have been wondering why these categories have been named so, you know the answer now! With linear distributivity and certain coherence conditions, these categories recover the whole of the multiplicative linear logic. In the [next episode](/chapter1/LDC2.md), we shall  meet linearly distributive categories in their full form! :dancer: :tada: 
 
 <CommentService/>
 
