@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"Chapter 1","lang":"en-US","frontmatter":{"lang":"en-US","title":"Chapter 1","description":"Linearly distributive categories is fun!"},"headers":[],"git":{"updatedTime":1687459883000,"contributors":[{"name":"pvarshinee","email":"priyaa.mirra@gmail.com","commits":1}]},"filePathRelative":"README.md"}');export{e as data};
