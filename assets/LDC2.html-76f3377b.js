@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-34783560","path":"/chapter1/LDC2.html","title":"E6. Linearly distributive categories -- Part II","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1689611554000,"contributors":[{"name":"pvarshinee","email":"priyaa.mirra@gmail.com","commits":1}]},"filePathRelative":"chapter1/LDC2.md"}');export{e as data};

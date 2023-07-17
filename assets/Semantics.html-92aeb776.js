@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-064c4304","path":"/chapter1/Semantics.html","title":"E3. Categorical presentations of linear logic","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1689611554000,"contributors":[{"name":"pvarshinee","email":"priyaa.mirra@gmail.com","commits":1}]},"filePathRelative":"chapter1/Semantics.md"}');export{a as data};
