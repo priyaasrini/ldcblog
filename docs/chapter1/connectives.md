@@ -1,6 +1,6 @@
 # E2. Building blocks of linear logic
 
-The previous episode ended with a brief introduction to basic building blocks of linear logic, in particular, the ones that would allow creating compound statements from the smaller ones. In this episode, we shall have a closer look at them.
+The previous episode ended with a brief introduction to basic building blocks of linear logic, in particular, the ones that would allow creating compound statements from the smaller ones. In this episode, we shall have a closer look at them. Lets go!
 
 ## Negation 
 
