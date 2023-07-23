@@ -4,7 +4,7 @@ import mathjax3 from "markdown-it-mathjax3"
 
 export default {
   title: "LDC Home", 
-  base: "/ldcblog/",
+ // base: "/ldcblog/",
   theme: defaultTheme({
     // set theme config here
         // sidebar array
