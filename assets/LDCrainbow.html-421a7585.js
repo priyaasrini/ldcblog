@@ -1,0 +1,1 @@
+import{_ as s,o,c as a,a as e,b as r}from"./app-5c028cf4.js";const t={},c=e("h1",{id:"e7-versions-of-ldcs",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#e7-versions-of-ldcs","aria-hidden":"true"},"#"),r(" E7. Versions of LDCs")],-1),n=[c];function i(_,d){return o(),a("div",null,n)}const f=s(t,[["render",i],["__file","LDCrainbow.html.vue"]]);export{f as default};
