@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-02578780","path":"/chapter1/LinearlogicToQuantum.html","title":"E4. Linear logic for quantum mechanics","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1690150293000,"contributors":[{"name":"pvarshinee","email":"priyaa.mirra@gmail.com","commits":1}]},"filePathRelative":"chapter1/LinearlogicToQuantum.md"}');export{a as data};
