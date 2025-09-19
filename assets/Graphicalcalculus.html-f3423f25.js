@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-b2c65ee4","path":"/chapter1/Graphicalcalculus.html","title":"E8. The graphical calculus","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1758290413000,"contributors":[{"name":"pvarshinee","email":"priyaa.mirra@gmail.com","commits":1}]},"filePathRelative":"chapter1/Graphicalcalculus.md"}');export{a as data};
