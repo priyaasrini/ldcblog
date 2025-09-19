@@ -4,11 +4,13 @@ The previous episode ended with a brief introduction to basic building blocks of
 
 ## Negation 
 
-Negation allows considering the *not form* of a statement, hence in a sense, its the dual of a statement.  However, the *not form* does not mean the exact opposite. For example, the negation of a statement such as *to spend a dollar* will be *to receive a dollar*. (In general, it is not *not spending a dollar*). 
+Negation allows considering the *not form* of a statement, hence in a sense, its the dual of a statement.  However, the *not form*, in general, does not mean the exact opposite. For example, the negation of a statement such as *to spend a dollar* is *to receive a dollar*  (and not *not spending a dollar*). The negation of a statement such as *to buy an apple* is *to sell an apple*.
 
-The symbol for negation is $A^\perp$ (here, $\perp$ read as *perp*) for any statement $A$.
+Negation switches perspectives: to spend a dollar is from the perspective of the buyer and to receive a dollar is from the perspective of the seller. Negation signifies the duality of perspectives in conversion of resources. Negation is an **involution** ; this means that double negation = no negation, $(A^\perp)^\perp = A$.  
 
-Negation is an **involution** ; this means that double negation = no negation, $(A^\perp)^\perp = A$.  One may think of it this way: for all practical purposes, to receive a dollar first and then to spend the received dollar to buy an apple is same as just spending a dollar to buy an apple. Either way, a dollar has been converted to an apple. 
+The symbol for negation is $A^\perp$ (here, $\perp$ read as *perp*) for any statement $A$. 
+
+
 
 ## Multiplicatives
 
@@ -39,7 +41,7 @@ Then, $p \Rightarrow q \otimes r$ refers to the fact that a dollar :dollar: buys
 
 The connective $\top$ (read as *top*) which is the multiplicative truth is the unit of the tensor.  Hence, $A \otimes \top = \top \otimes A = A$ (multiplying $1$ with a number gives back the number). 
 
-The connective $\bot$ (read as *bot*) is the multiplicative false. $\top$ and $\bot$ are duals to one another, that is, $\top^\perp = \bot$. The connective, $\oplus$ (read as the *par*) is dual to the tensor.  This means that, $(A^\perp \otimes B^\perp)^\perp = A \oplus B$. A intuitive interpretation of the par is more subtle. It is better understood when have an multiplicatives interpreted in a specific system. 
+The connective $\bot$ (read as *bot*) is the multiplicative false. $\top$ and $\bot$ are duals to one another, that is, $\top^\perp = \bot$. The connective, $\oplus$ (read as the *par*) is dual to the tensor.  This means that, $(A^\perp \otimes B^\perp)^\perp = A \oplus B$. An intuitive interpretation of the par is more subtle. It is better understood by interpreting within a specific context. 
 
 Linearly distributive categories are the framework where the interplay of the tensor and the par along with their units is explained without the use of negation.
 
@@ -47,9 +49,9 @@ Linearly distributive categories are the framework where the interplay of the te
 
 Exponentials allow for non-linear operations within the logic. Instead of one resource becoming the other exponentials allow resources to reproduce (without any check) and to disappear!  
 
-An **infinte storage** of apples is written as $!$:apple: (pronounced *bang* an apple, or *of course* an apple). From this storage, one can extract an apples any number of times. The storage of a resource itself can produce another copy of itself or can vanish in thin air! In category theory, these are modelled using coalgebra modalities (TODO: put link here) and have deep connection to differential categories (TODO: put link here).
+An **infinte storage** of apples is written as $!$:apple: (pronounced *bang* an apple, or *of course* an apple). From this storage, one can extract an apples any number of times. The storage of a resource itself can produce another copy of itself or can vanish in thin air! In category theory, these are modelled using coalgebra modalities (TODO: put link here) and have deep connections to differential categories (TODO: put link here).
 
-There is another exponential modality, who is an **(ever) hungry pacman**. A $?$:apple: (pronounced *whimper* an apple, or *why not* an apple) is an ever-hungry hungry pacman for apple resource. Two such hungry pacmans can combine into one or can produce themselves out of thin air. 
+There is another exponential modality, who is an **hungry pacman**. A $?$:apple: (pronounced *whimper* an apple, or *why not* an apple) is an ever-hungry hungry pacman for apple resource. Two such hungry pacmans can combine into one or can appear out of thin air. 
 
 Negation puts the infinite storage and the hungry pacman on the same pedestal: negating a hungry pacman for apples gives an infinite storage of negated apples (whatever that means!). 
 

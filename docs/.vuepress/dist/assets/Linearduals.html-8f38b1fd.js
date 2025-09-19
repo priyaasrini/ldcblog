@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-9ec30dce","path":"/chapter1/Linearduals.html","title":"E9. Linear duals and *-autonomous categories","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1689298300000,"contributors":[{"name":"pvarshinee","email":"priyaa.mirra@gmail.com","commits":3}]},"filePathRelative":"chapter1/Linearduals.md"}');export{a as data};

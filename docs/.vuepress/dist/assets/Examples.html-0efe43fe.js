@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-8ced9204","path":"/chapter1/Examples.html","title":"E10. Examples of LDCs","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1689298300000,"contributors":[{"name":"pvarshinee","email":"priyaa.mirra@gmail.com","commits":3}]},"filePathRelative":"chapter1/Examples.md"}');export{e as data};

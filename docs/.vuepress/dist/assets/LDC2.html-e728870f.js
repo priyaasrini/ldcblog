@@ -1,0 +1,3 @@
+import{_ as i,o as t,c as a,f as r,a as e,b as n}from"./app-f5663cf8.js";const s={},o=e("h1",{id:"e6-linearly-distributive-categories-part-ii",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#e6-linearly-distributive-categories-part-ii","aria-hidden":"true"},"#"),n(" E6. Linearly distributive categories -- Part II")],-1),c=e("p",null,"Content in transit ...",-1);function l(d,_){return t(),a("div",null,[o,r(` see how linear distributivity is dervied from the basic rules of linear logic
+
+Unlike in its categorical semantics, linear distributivity is not a fundamental axiom in linear logic... `),c])}const f=i(s,[["render",l],["__file","LDC2.html.vue"]]);export{f as default};

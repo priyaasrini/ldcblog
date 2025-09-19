@@ -17,7 +17,7 @@ q &: \text{ an apple }
 $$
 
 In linear logic, the compound statement 
-"$p \Rightarrow q$" has the meaning that if a *dollar* :dollar: can be spent to buy an *apple* :apple:. This means that a person can either have *a dollar* or *an apple* at a given time but not both. 
+"$p \Rightarrow q$" has the meaning that a *dollar* :dollar: can be converted into an *apple* :apple:. This means that a person can either have *a dollar* or *an apple* at a given time but not both. 
 The word "linear" refers to this resource sensitivity of the 
 logic 
 
@@ -29,7 +29,7 @@ In this sense, in linear logic, every statement is a resource. A statement is tr
 
 Now, every logical framework has a few basic building blocks from which complex 'truths' can be built. Imagine building a LEGO house using a few basic shapes. The first basic building block are simple statements (like $p:$a dollar and $q:$an apple). Then, we have four groups of building blocks called *connectives*. Having basic understanding of these connectives is important to see what linearly distributive categories are about! 
 
- I would explain the intiution behind these connectives in this episode, but we shall look at them in bit more detail in the [next episode](/chapter1/connectives.md).
+ I will explain the intuition behind these connectives in this episode, but we shall look at them in bit more detail in the [next episode](/chapter1/connectives.md).
 
 
 - **Negation:** Allows one to *negate* a statement. The word negation does not mean the exact opposite but its used in a more subtle way in linear logic. For example, in linear logic, negation of "spending a dollar" is "receiving a dollar".
@@ -38,7 +38,7 @@ Now, every logical framework has a few basic building blocks from which complex 
 
 - **Additives:** Allows for non-determinism. Using additives, one can represent a situation where a dollar would buy either an orange **or** an apple. 
 
-- **Exponentials:** Allows for non-linearity in the logic. Using exponentials one can create  a storage of a resource which can be **duplicated** or **destroyed**, and from which the resource can be extracted any number of times. An infinte such storage of apples is written as $!$:apple:.
+- **Exponentials:** Allows for non-linearity in the logic. Using exponentials one can create  a storage of a resource which can be **duplicated** or **destroyed**, and from which the resource can be extracted any number of times. An infinite such storage of apples is written as $!$:apple:.
 
 In the [next epsiode](/chapter1/connectives.md), I shall show what exactly these connectives are and how they relate to linearly distributive categories, the star of this series! :star: :tada:
 

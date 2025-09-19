@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-fceba0c8","path":"/chapter1/LDCrainbow.html","title":"E7. Versions of LDCs","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1689298300000,"contributors":[{"name":"pvarshinee","email":"priyaa.mirra@gmail.com","commits":4}]},"filePathRelative":"chapter1/LDCrainbow.md"}');export{a as data};
