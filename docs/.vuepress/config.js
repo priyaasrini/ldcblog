@@ -55,7 +55,7 @@ export default {
   plugins: [
     commentPlugin({
       provider: "Waline", // Artalk | Giscus | Waline | Twikoo
-      serverURL: "https://waline-9mxygm55v-pvsriniv-gmailcom.vercel.app/",
+      serverURL: "https://waline-9mxygm55v-pvsriniv-gmailcom.vercel.app",
       pageview: true,
     }),
   ],
